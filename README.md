@@ -1,8 +1,8 @@
 ## Ahoy 👋
 
-- 👨‍💻 I’m currently working on mobile apps 📱 to make life easier
-- 🌱 I’m currently upgrading my Problem Solving with Dart skills with [Coding Challenges](https://github.com/DigitalCapitan/coding_challenges) and [Algorithms](https://github.com/DigitalCapitan/algorithms)
-- 👯 I’m looking to collaborate on a Flutter or Unity Open-Source project!
+- 👨‍💻 I’m currently working as a full stack developer with Flutter as my main focus
+- 🌱 I’m currently upgrading my AWS skills to build complex backends
+- 👯 I’m looking for like minded people to help me with my current Flutter project, see below
 - 🤔 I’m looking for help with World 🌏 Domination 
 - 💬 Ask me about my current Flutter projects
 - 📫 How to reach me: LinkedIn
@@ -12,15 +12,13 @@
   <img src=https://user-images.githubusercontent.com/55442748/110416157-e94a7c80-80de-11eb-9b87-dc1ecec02c91.png height="50">
   <img src=https://user-images.githubusercontent.com/55442748/110416190-f7000200-80de-11eb-9128-97895fe16204.png height="50">
   <img src=https://user-images.githubusercontent.com/55442748/110416195-f9faf280-80de-11eb-8a6d-01c5a87e7305.png height="50">
-  <img src=https://user-images.githubusercontent.com/55442748/110436364-dd22e700-80ff-11eb-8f25-26964b459ba5.png height="50">
+  <img src=https://user-images.githubusercontent.com/55442748/146664212-b452e2f3-1023-47af-b0a6-1bfab5341295.png height="50">
 </div>
 
 ## Current Project Overview
 - 📱 Flutter mobile application
-- 📷 Uses the device's camera to read characters
-- 🧩 Data is interpreted and run through an algorithm to solve puzzles
-<p>This experiment will lead to a bigger application aimed at vehicle navigation</p>
-
+- 📷 Social platform for photographers by photographers
+- 🔍 Focus on photographers and community
 
 ## Launched 🚀 Apps
 <a href="https://play.google.com/store/apps/dev?id=5866919437838931780" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110417111-af7a7580-80e0-11eb-8f65-90671420bd55.png" width="250"><a/>
