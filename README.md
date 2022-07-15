@@ -17,8 +17,8 @@
 
 ## Current Project Overview
 - 📱 Flutter mobile application
-- 📷 Social platform for photographers by photographers
-- 🔍 Focus on photographers and community
+- 📷 Social platform that revolutionises how we interact
+- 🔍 Focus on community and connection for friends worldwide
 
 ## Launched 🚀 Apps
 <a href="https://play.google.com/store/apps/dev?id=5866919437838931780" target="_blank"><img src="https://user-images.githubusercontent.com/55442748/110417111-af7a7580-80e0-11eb-8f65-90671420bd55.png" width="250"><a/>
